@@ -30,20 +30,15 @@ analysis techniques:
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
 
-1. Find out the top 5 customers who made the highest profits.
-![Top 5 Customers Query](insert_image_link_here)
+1. what are the total sales made by each customer?
 
-2. Find out the average quantity ordered per category.
-![Average Quantity Query](insert_image_link_here)
+2. How many orders were placed in each state?
 
-3. Identify the top 5 products that have generated the highest revenue.
-![Top 5 Revenue Products Query](insert_image_link_here)
+3. how many unique products were sold?
 
-4. Determine the top 5 products whose revenue has decreased compared to the previous year.
-![Decreased Revenue Products Query](insert_image_link_here)
+4. How many returns were made for each product category.
 
-5. Identify the highest profitable sub-category.
-![Highest Profitable Sub-category Query](insert_image_link_here)
+5. How many orders were placed in each month(2022)
 
 6. Find out the states with the highest total orders.
 ![States with Highest Orders Query](insert_image_link_here)
