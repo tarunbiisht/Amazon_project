@@ -40,17 +40,14 @@ analysis techniques:
 
 5. How many orders were placed in each month(2022)
 
-6. Find out the states with the highest total orders.
-![States with Highest Orders Query](insert_image_link_here)
+6.  Determine the top 3 products whose revenue has decreased to the previous year?
 
-7. Determine the month with the highest number of orders.
-![Month with Highest Orders Query](insert_image_link_here)
+7. List all orders where the quantity sold is greater than the average quantity sold across all orders
 
-8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
-![Profit Margin Calculation Query](insert_image_link_here)
+8. Find out the top 5 customers who made the highest profit?
 
-9. Calculate the percentage contribution of each sub-category.
-![Sub-category Contribution Query](insert_image_link_here)
+9. Find details of the top 5 products with the highest total sale, where the total sale for EACH
+   products is greater than the avg sale across all products?
 
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
